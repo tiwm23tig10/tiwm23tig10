@@ -4,7 +4,7 @@ competências obtidas. O trabalho foi proposto pelo Professor Marco Oliveira, co
 objetivo de desenvolver um site utilizando HTML5, CSS3, JavaScript e XML. A 
 temática abordada é "Viagens e Turismo"
 , sendo que o tema específico, "[Arte e 
-Tranquilidade: Japão]([https://github.com](https://arteetranquilidadejapao.netlify.app/))", foi escolhido pelo grupo com responsabilidade.
+Tranquilidade: Japão]([https://arteetranquilidadejapao.netlify.app/]))", foi escolhido pelo grupo com responsabilidade.
 
 O escopo do trabalho envolve a criação de um site estático utilizando HTML, XML e 
 seus respectivos esquemas para validação. Cada documento HTML deve apresentar uma 
