@@ -1,4 +1,4 @@
-# tiwm23tig10
+# Arte e Tranquilidade: Japão
 Neste projeto, pretendemos aplicar os conhecimentos adquiridos e demonstrar as 
 competências obtidas. O trabalho foi proposto pelo Professor Marco Oliveira, com o 
 objetivo de desenvolver um site utilizando HTML5, CSS3, JavaScript e XML. A 
