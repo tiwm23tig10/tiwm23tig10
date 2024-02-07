@@ -2,7 +2,7 @@
 Neste projeto, pretendemos aplicar os conhecimentos adquiridos e demonstrar as 
 competências obtidas. O trabalho foi proposto pelo Professor Marco Oliveira, com o 
 objetivo de desenvolver um site utilizando HTML5, CSS3, JavaScript e XML. A 
-temática abordada é "Viagens e Turismo"[Viagens e Turismo](https://github.com)
+temática abordada é "[Viagens e Turismo]"(https://github.com)
 , sendo que o tema específico, "Arte e 
 Tranquilidade: Japão", foi escolhido pelo grupo com responsabilidade.
 
