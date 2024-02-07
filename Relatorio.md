@@ -8,6 +8,7 @@ O site foi desenvolvido utilizando HTML, CSS, JavaScript, XML e XSD. Consiste em
 
 # Problemas Encontrados:
 Durante o desenvolvimento, encontramos várias dificuldades. Uma delas foi a implementação de um vídeo de fundo, que inicialmente foi planejado, mas devido a problemas técnicos, acabou sendo substituído por uma imagem estática. Além disso, enfrentamos desafios ao integrar o XML ao site e ao realizar sua validação com XSD.
+Também tivemos problemas no grupo onde tivemos que fazer o trabalho ás pressas e estava um pouco apertado
 
 # Sobre o Grupo
 Inicialmente, o trabalho foi planejado para ser realizado por três pessoas: Wilker Lopes, Tiago Leite e Henrique Barros, mas um dos membros que é o Tiago Leite optou por não participar do recurso, anteriormente este trabalho era para ser feito na avaliação continua e exame final. E como ele não teve participação, no recurso, ficamos sem mais 1 membro para nos ajudar, ele originalmente tinha feito CSS, só que no recurso tivemos que adicionar e reajustar algumas coisas no CSS para as novas coisas quanto as antigas
