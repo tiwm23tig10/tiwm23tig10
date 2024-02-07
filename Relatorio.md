@@ -4,10 +4,10 @@
 # Introdução
 O presente relatório descreve o processo de criação de um site com o tema "Arte e Tranquilidade no Japão". O Trabalho foi feito de acordo com o tema solicitado pelo docente Marco Oliveira, que escolheu o tema de viagens e turismo como foco para o trabalho.
 # Estrutura do Site
-O site foi desenvolvido utilizando HTML, CSS, JavaScript, XML e XSD. Consiste em seis páginas HTML, sendo uma delas a página principal, chamada index.html. As páginas incluem informações sobre destinos turísticos no Japão que enfatizam sobre algumas cidades do país.
+O site foi desenvolvido utilizando HTML, CSS, JavaScript, XML e XSD. Consiste em seis páginas HTML, sendo uma delas a página principal, chamada index.html. As páginas incluem informações sobre destinos turísticos no Japão que enfatizam sobre algumas cidades famosas do país. O site contem uma barra de pesquisa, contacto e login, além de também 1 video rodando no fundo da pagina, 
 
 # Problemas Encontrados:
-Durante o desenvolvimento, encontramos várias dificuldades. Uma delas foi a implementação de um vídeo de fundo, que inicialmente foi planejado, mas devido a problemas técnicos, acabou sendo substituído por uma imagem estática. Além disso, enfrentamos desafios ao integrar o XML ao site e ao realizar sua validação com XSD.
+Durante o desenvolvimento, encontramos várias dificuldades. Uma delas foi a implementação de um vídeo de fundo, que inicialmente foi planejado, mas devido a problemas técnicos, acabou sendo substituído por uma imagem estática. Além disso, enfrentamos desafios ao integrar o XML ao site e ao realizar sua validação com XSD, Login e a barra de pesquisa não funciona muito bem.
 Também tivemos problemas no grupo onde tivemos que fazer o trabalho ás pressas e estava um pouco apertado, portanto o trabalho pode conter mais alguns erros, mas é o ponto que chegamos, é funcional.
 
 # Sobre o Grupo
